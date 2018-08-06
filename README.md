@@ -12,3 +12,5 @@ This repository contains public documents of Sponsy, starting from WhitePaper an
  - [Token Sale Terms & Conditions](https://www.sponsy.org/sponsy_terms.pdf) : Rules governing the token sale process
  - [Website Terms & Conditions](https://www.sponsy.org/sponsy_terms_website.pdf) : Rules governing the usage of the website
  - [Privacy Policy](https://www.sponsy.org/sponsy_privacy.pdf) : Describes the way Sponsy manages users' private data
+ - [AML/KYC Policy](https://www.sponsy.org/sponsy_aml_kyc.pdf) : Discussed policies applied to users wishing to puchase SPONS tokens
+
